@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EP.SeaBattleAI.Common", "..\EP.SeaBattleAI.Common\EP.SeaBattleAI.Common.csproj", "{72A9CBCB-01E6-43FD-889B-964C5FA74246}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EP.SeaBattleAI.Data", "..\EP.SeaBattleAI.Data\EP.SeaBattleAI.Data.csproj", "{6CB18CDE-4167-4D21-BA45-468EEACD921E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EP.SeaBattleAI.Logic", "..\EP.SeaBattleAI.Logic\EP.SeaBattleAI.Logic.csproj", "{00131B23-5BB4-4D22-9B6E-A706F7B5FF8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EP.SeaBattleAI.Tests", "..\EP.SeaBattleAI.Tests\EP.SeaBattleAI.Tests.csproj", "{859EC863-4239-4E79-B8F8-9E40EE87788A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EP.SeaBattleAI.Web", "..\EP.SeaBattleAI.Web\EP.SeaBattleAI.Web.csproj", "{64884F4B-4EB9-4830-A2AF-E1178FCD1B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A9CBCB-01E6-43FD-889B-964C5FA74246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A9CBCB-01E6-43FD-889B-964C5FA74246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A9CBCB-01E6-43FD-889B-964C5FA74246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A9CBCB-01E6-43FD-889B-964C5FA74246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB18CDE-4167-4D21-BA45-468EEACD921E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB18CDE-4167-4D21-BA45-468EEACD921E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB18CDE-4167-4D21-BA45-468EEACD921E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB18CDE-4167-4D21-BA45-468EEACD921E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00131B23-5BB4-4D22-9B6E-A706F7B5FF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00131B23-5BB4-4D22-9B6E-A706F7B5FF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00131B23-5BB4-4D22-9B6E-A706F7B5FF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00131B23-5BB4-4D22-9B6E-A706F7B5FF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859EC863-4239-4E79-B8F8-9E40EE87788A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859EC863-4239-4E79-B8F8-9E40EE87788A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859EC863-4239-4E79-B8F8-9E40EE87788A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859EC863-4239-4E79-B8F8-9E40EE87788A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64884F4B-4EB9-4830-A2AF-E1178FCD1B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64884F4B-4EB9-4830-A2AF-E1178FCD1B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64884F4B-4EB9-4830-A2AF-E1178FCD1B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64884F4B-4EB9-4830-A2AF-E1178FCD1B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FCF5BC-DD07-463A-AA8C-E25DFF491037}
+	EndGlobalSection
+EndGlobal
